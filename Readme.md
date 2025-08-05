@@ -50,21 +50,22 @@ Password: ****
 
 ## 🔷 4. Flowchart (Text Version)
 
-
+```
 [Start]
-    ↓
-[Login Screen]
-    ↓ (if correct)
+   ↓
+[Login Screen] 
+   ↓ (if correct)
 [Show Menu]
-    ↓
+   ↓
 [1. Add Student] ←→ [2. Edit] ←→ [3. Delete]
-    ↓
+   ↓
 [4. Add Subject + Marks]
-    ↓
+   ↓
 [5. View All] ←→ [6. Search by Roll] ←→ [7. Search by Name]
-    ↓
+   ↓
 [8. Show Topper] ←→ [9. Export CSV] ←→ [10. Show Ranking]
-    ↓
+   ↓
 [99. Change Password]
-    ↓
+   ↓
 [0. Exit]
+```
